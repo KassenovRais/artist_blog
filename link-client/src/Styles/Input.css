@@ -1,0 +1,28 @@
+.enterLink{
+       width: 50%;
+       height: 1.4rem;
+       color: gray;
+       outline: nona;
+       border: teal 1px solid;
+}
+.BTN{
+       width: max-content;
+       height: 1.9rem;
+       border: none;
+       background: teal;
+       color: white;
+       font-weight: 700;
+       font-size: 1.3rem;
+       margin-left: 1.2rem;
+}
+.enterBlock{
+       width: 80%;
+       margin: 6vh auto;
+       display: flex;
+       align-items: center;
+}
+.link{
+     width: 40%;
+     text-align: center;
+     margin: 4vh auto;  
+}
